@@ -14,5 +14,8 @@ LicenseUrl: https://github.com/dyang886/Game-Cheats-Manager?tab=GPL-3.0-1-ov-fil
 Copyright: Copyright © 2023-2026 Yongcan Yang
 ShortDescription: Game Cheats Manager Setup
 Description: Easily download and manage single-player game cheats for your convenience
+ReleaseNotes: Optimized the display names for user uploaded trainers: [author] game_name trainer_name
+ReleaseNotesUrl: https://github.com/dyang886/Game-Cheats-Manager/releases/tag/v2.4.2
 ManifestType: defaultLocale
 ManifestVersion: 1.10.0
+
